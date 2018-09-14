@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mikołaj Słupiński's Blog - Misc</title><link href="http://Nerd911.github.io/" rel="alternate"></link><link href="http://Nerd911.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://Nerd911.github.io/</id><updated>2018-09-14T22:50:00+02:00</updated><entry><title>[En] Hello everyone</title><link href="http://Nerd911.github.io/2018_09_14_hello.html" rel="alternate"></link><published>2018-09-14T22:50:00+02:00</published><updated>2018-09-14T22:50:00+02:00</updated><author><name>Mikołaj Słupiński</name></author><id>tag:nerd911.github.io,2018-09-14:/2018_09_14_hello.html</id><summary type="html">&lt;p&gt;Just a short welcome post.&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;DISCLAIMER&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;I'm not native English speaker so if you find any errors be more than a welcome to send me a message about it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone!
+My name is Mikołaj Słupiński.
+I am pursuing a master's degree both in Mathematics and Computer Science at University of Wrocław.
+My main interests right now are machine learning and statistics.
+My non science-related hobbies include gym and male fashion.&lt;/p&gt;
+&lt;p&gt;I decided to start a technical blog, in order to better understand some more complicated topics.
+To be honest, I really doubt that I can cover valuable topics better than other online resources.
+I treat this blog merely as a new way to self improvement, not only in my computer science understanding and but also in English usage.&lt;/p&gt;
+&lt;p&gt;I will publish in English as well as in Polish, because in my opinion there is not enough widely available Polish materials covering the most complicated topics.&lt;/p&gt;
+&lt;p&gt;If you ever find any errors (especially grammatical ones) don't hesitate to mail me. I don't have a proofreader, so all help would be appreciated.&lt;/p&gt;
+&lt;p&gt;I hope you will find materials posted here valuable and I wish you pleasant reading.&lt;/p&gt;</content><category term="welcome"></category><category term="misc"></category></entry></feed>

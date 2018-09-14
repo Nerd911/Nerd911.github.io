@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Mikołaj Słupiński's Blog - Mikołaj Słupiński</title><link>http://Nerd911.github.io/</link><description></description><lastBuildDate>Fri, 14 Sep 2018 23:00:00 +0200</lastBuildDate><item><title>[En] My top 5 machine learning books available for free</title><link>http://Nerd911.github.io/2018_09_14_interesting_books.html</link><description>&lt;p&gt;Nowadays the number of free resources available on Internet is overwhelming.
+There are many more free books than one can read.
+Therefore, I created a short list consisting of the most valuable publications by my reckoning.&lt;/p&gt;
+&lt;h1&gt;An Introduction to Statistical Learning with Applications in R&lt;/h1&gt;
+&lt;p&gt;This book is unquestionable classic on the subject of machine learning.
+It begins with linear regression and statistics, then moves on to more advanced linear models.
+It also covers the topic of SVM, PCA and clustering.&lt;/p&gt;
+&lt;p&gt;You can find it on &lt;a href="http://www-bcf.usc.edu/~gareth/ISL/"&gt;this site.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Neural Networks and Deep Learning&lt;/h1&gt;
+&lt;p&gt;It's not a conventional book, because it's in the form of fully responsive website.
+It covers the topic of neural networks and deep learning in an unconventional manner.&lt;/p&gt;
+&lt;p&gt;The book explains a lot of mathematical concepts connected with the topic of artificial neural network in easy way.
+The author created a lot of interesting interactive examples in javascript. &lt;a href="http://michaelnielsen.org/"&gt;Michael Nielsen&lt;/a&gt; did a great job, providing this publication with lots of exercises and problems.&lt;/p&gt;
+&lt;p&gt;You can read it &lt;a href="http://neuralnetworksanddeeplearning.com/"&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;R Notes for Professionals&lt;/h1&gt;
+&lt;p&gt;This is great book for learning R for somebody who is familiar with programming.
+The book doesn't have exercises for the reader, but uses a lot of examples.
+It's not for somebody, who isn't familiar with programming.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://books.goalkicker.com/RBook/"&gt;Here's&lt;/a&gt; the download page.&lt;/p&gt;
+&lt;h1&gt;Python Notes for Professionals&lt;/h1&gt;
+&lt;p&gt;It's mostly the same as the previous book, but I thought that it deserves separate paragraph. You can download it &lt;a href="https://books.goalkicker.com/PythonBook/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Don't forget to check out the rest of the books in &lt;a href="https://books.goalkicker.com/"&gt;the whole series.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Dive into Python 3&lt;/h1&gt;
+&lt;p&gt;As far as I'm concerned this is the best book to begin adventure with Python.
+This book is easy to read and full of examples.
+It provides the reader with all the crucial knowledge, byt doesn't overload him with too much information.&lt;/p&gt;
+&lt;p&gt;Get it &lt;a href="http://www.diveintopython3.net/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And what are your favorite resources?
+Share them in the comments.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mikołaj Słupiński</dc:creator><pubDate>Fri, 14 Sep 2018 23:00:00 +0200</pubDate><guid isPermaLink="false">tag:nerd911.github.io,2018-09-14:/2018_09_14_interesting_books.html</guid><category>cs</category><category>books</category><category>python</category><category>machine learning</category><category>r</category><category>free</category><category>resources</category><category>en</category></item><item><title>[En] Hello everyone</title><link>http://Nerd911.github.io/2018_09_14_hello.html</link><description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;DISCLAIMER&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;I'm not native English speaker so if you find any errors be more than a welcome to send me a message about it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hi everyone!
+My name is Mikołaj Słupiński.
+I am pursuing a master's degree both in Mathematics and Computer Science at University of Wrocław.
+My main interests right now are machine learning and statistics.
+My non science-related hobbies include gym and male fashion.&lt;/p&gt;
+&lt;p&gt;I decided to start a technical blog, in order to better understand some more complicated topics.
+To be honest, I really doubt that I can cover valuable topics better than other online resources.
+I treat this blog merely as a new way to self improvement, not only in my computer science understanding and but also in English usage.&lt;/p&gt;
+&lt;p&gt;I will publish in English as well as in Polish, because in my opinion there is not enough widely available Polish materials covering the most complicated topics.&lt;/p&gt;
+&lt;p&gt;If you ever find any errors (especially grammatical ones) don't hesitate to mail me. I don't have a proofreader, so all help would be appreciated.&lt;/p&gt;
+&lt;p&gt;I hope you will find materials posted here valuable and I wish you pleasant reading.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mikołaj Słupiński</dc:creator><pubDate>Fri, 14 Sep 2018 22:50:00 +0200</pubDate><guid isPermaLink="false">tag:nerd911.github.io,2018-09-14:/2018_09_14_hello.html</guid><category>welcome</category><category>misc</category></item></channel></rss>

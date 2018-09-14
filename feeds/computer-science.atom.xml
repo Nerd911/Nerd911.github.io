@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mikołaj Słupiński's Blog - Computer Science</title><link href="http://Nerd911.github.io/" rel="alternate"></link><link href="http://Nerd911.github.io/feeds/computer-science.atom.xml" rel="self"></link><id>http://Nerd911.github.io/</id><updated>2018-09-14T23:00:00+02:00</updated><entry><title>[En] My top 5 machine learning books available for free</title><link href="http://Nerd911.github.io/2018_09_14_interesting_books.html" rel="alternate"></link><published>2018-09-14T23:00:00+02:00</published><updated>2018-09-14T23:00:00+02:00</updated><author><name>Mikołaj Słupiński</name></author><id>tag:nerd911.github.io,2018-09-14:/2018_09_14_interesting_books.html</id><summary type="html">&lt;p&gt;There are a lot of free resources available in the Internet. I decided to make a short list containing the most valuable ones.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Nowadays the number of free resources available on Internet is overwhelming.
+There are many more free books than one can read.
+Therefore, I created a short list consisting of the most valuable publications by my reckoning.&lt;/p&gt;
+&lt;h1&gt;An Introduction to Statistical Learning with Applications in R&lt;/h1&gt;
+&lt;p&gt;This book is unquestionable classic on the subject of machine learning.
+It begins with linear regression and statistics, then moves on to more advanced linear models.
+It also covers the topic of SVM, PCA and clustering.&lt;/p&gt;
+&lt;p&gt;You can find it on &lt;a href="http://www-bcf.usc.edu/~gareth/ISL/"&gt;this site.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Neural Networks and Deep Learning&lt;/h1&gt;
+&lt;p&gt;It's not a conventional book, because it's in the form of fully responsive website.
+It covers the topic of neural networks and deep learning in an unconventional manner.&lt;/p&gt;
+&lt;p&gt;The book explains a lot of mathematical concepts connected with the topic of artificial neural network in easy way.
+The author created a lot of interesting interactive examples in javascript. &lt;a href="http://michaelnielsen.org/"&gt;Michael Nielsen&lt;/a&gt; did a great job, providing this publication with lots of exercises and problems.&lt;/p&gt;
+&lt;p&gt;You can read it &lt;a href="http://neuralnetworksanddeeplearning.com/"&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;R Notes for Professionals&lt;/h1&gt;
+&lt;p&gt;This is great book for learning R for somebody who is familiar with programming.
+The book doesn't have exercises for the reader, but uses a lot of examples.
+It's not for somebody, who isn't familiar with programming.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://books.goalkicker.com/RBook/"&gt;Here's&lt;/a&gt; the download page.&lt;/p&gt;
+&lt;h1&gt;Python Notes for Professionals&lt;/h1&gt;
+&lt;p&gt;It's mostly the same as the previous book, but I thought that it deserves separate paragraph. You can download it &lt;a href="https://books.goalkicker.com/PythonBook/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Don't forget to check out the rest of the books in &lt;a href="https://books.goalkicker.com/"&gt;the whole series.&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Dive into Python 3&lt;/h1&gt;
+&lt;p&gt;As far as I'm concerned this is the best book to begin adventure with Python.
+This book is easy to read and full of examples.
+It provides the reader with all the crucial knowledge, byt doesn't overload him with too much information.&lt;/p&gt;
+&lt;p&gt;Get it &lt;a href="http://www.diveintopython3.net/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And what are your favorite resources?
+Share them in the comments.&lt;/p&gt;</content><category term="cs"></category><category term="books"></category><category term="python"></category><category term="machine learning"></category><category term="r"></category><category term="free"></category><category term="resources"></category><category term="en"></category></entry></feed>
